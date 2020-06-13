@@ -18,5 +18,9 @@ for key in count[count>2].to_dict():
 merchant = df.loc[df['userid'].isin(user)]
 print (merchant.sort_values(by=['userid','shopid', 'event_time']))
 
+user_merchants = []
+for key in merchant.to_dict();
 
+hash = {215490055:[86572177, 62947690, 89127015, 86572177], usrer2:[merchant2]}
 
+hash2 = {215490055:[86572177, 62947690, 89127015], usrer2:[merchant2]}
